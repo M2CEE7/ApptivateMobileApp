@@ -1,2 +1,2 @@
 # ApptivateMobileApp
-The Mobile App cariant of the Apptivate UQMS
+The Mobile App variant of the Apptivate UQMS
